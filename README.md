@@ -1,5 +1,12 @@
 # vueproject
 
+Tämä on Sovelluskehityskurssin harjoitustyö. Sovellus hakee palvelimelta https://mlbe.herokuapp.com/api ajantasaiset tiedot eri maiden päivärahoista. Syöttämällä matkan alkupäivän ja loppupäivän sekä valitsemalla alasvetovalikosta maan, sovellus laskee päivärahan määrän valitulle ajanjaksolle. 
+
+Sovellus tulee osoitteeseen https://dos.seamk.fi/~epedu+k1901136/index.html 
+
+
+
+
 ## Project setup
 ```
 npm install
