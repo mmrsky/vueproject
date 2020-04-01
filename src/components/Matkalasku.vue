@@ -47,7 +47,7 @@ export default {
         // Haetaan maa ja päivärahatiedot palvelimelta
         getCountryData: function () {
           //axios.get('http://localhost:8081/api')
-          axios.get('http://mlbe.herokuapp.com/api')
+          axios.get('https://mlbe.herokuapp.com/api')
             .then( (response) => {  
                 this.countries = response.data;
             })
